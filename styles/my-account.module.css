@@ -1,0 +1,51 @@
+.container {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.content {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  max-width: 500px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.actionButtons {
+  display: flex;
+  flex-direction: row;
+}
+
+.actionButtons > * + * {
+  margin-left: 12px;
+}
+
+.inputs {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.inputs > * {
+  margin-right: 10px;
+}
+
+.container h2:not(:first-child) {
+  margin-top: 50px;
+}
+
+.servicesTitle {
+  margin-bottom: 0;
+}
+
+.noVerifiedEmail {
+  margin-top: 10px;
+  color: var(--color-2);
+}

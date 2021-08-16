@@ -1,0 +1,262 @@
+{
+  "07j8a2UdvGRcH4ulvFKH": {
+    "id": "07j8a2UdvGRcH4ulvFKH",
+    "name": "Comunidad foral de navarra",
+    "active": false
+  },
+  "0CHkX6eJaehs8r964S6s": {
+    "id": "0CHkX6eJaehs8r964S6s",
+    "name": "Cáceres",
+    "active": false
+  },
+  "0CzKmFyRJu6HLOgrF7Me": {
+    "active": false,
+    "name": "Lugo",
+    "id": "0CzKmFyRJu6HLOgrF7Me"
+  },
+  "0iB9OKnuKexyy9BYr5az": {
+    "id": "0iB9OKnuKexyy9BYr5az",
+    "name": "La coruña",
+    "active": false
+  },
+  "1AgzcbsKhPZ1y62yGHlG": {
+    "active": false,
+    "name": "Ávila",
+    "id": "1AgzcbsKhPZ1y62yGHlG"
+  },
+  "1a0QKyVl3snQjUrxyWKF": {
+    "id": "1a0QKyVl3snQjUrxyWKF",
+    "active": true,
+    "name": "Tarragona"
+  },
+  "44NgDyRdIvfHti7GpWMz": {
+    "active": false,
+    "name": "Soria",
+    "id": "44NgDyRdIvfHti7GpWMz"
+  },
+  "4LtAtj2yZT2AEdTDmKpU": {
+    "id": "4LtAtj2yZT2AEdTDmKpU",
+    "name": "Álava",
+    "active": false
+  },
+  "4VodUJAA3MC2zBhVIZRH": {
+    "name": "Barcelona",
+    "active": false,
+    "id": "4VodUJAA3MC2zBhVIZRH"
+  },
+  "4uXmOqaxPKEHbVmZNBaa": {
+    "active": false,
+    "name": "Las palmas",
+    "id": "4uXmOqaxPKEHbVmZNBaa"
+  },
+  "5OVz0WmQZWpNmlPIMosf": {
+    "id": "5OVz0WmQZWpNmlPIMosf",
+    "active": false,
+    "name": "Guadalajara"
+  },
+  "AWtKY45Et2qop6FAbEPg": {
+    "name": "Cádiz",
+    "id": "AWtKY45Et2qop6FAbEPg",
+    "active": false
+  },
+  "Blls3T9vYr0YWdSzgXTN": {
+    "name": "Teruel",
+    "active": false,
+    "id": "Blls3T9vYr0YWdSzgXTN"
+  },
+  "Fmw0810rjEl5LlSsufWw": {
+    "id": "Fmw0810rjEl5LlSsufWw",
+    "active": false,
+    "name": "Castellón"
+  },
+  "GhazLL0RvoY4reqbjSwE": {
+    "id": "GhazLL0RvoY4reqbjSwE",
+    "active": false,
+    "name": "La rioja"
+  },
+  "IMxeoSD3WvpR55WLIH66": {
+    "id": "IMxeoSD3WvpR55WLIH66",
+    "active": false,
+    "name": "Segovia"
+  },
+  "ImeB3Fv4HVMw0pTbLiD2": {
+    "name": "Valladolid",
+    "active": false,
+    "id": "ImeB3Fv4HVMw0pTbLiD2"
+  },
+  "NZFRIS39r7wmjFXNTmES": {
+    "name": "Lérida",
+    "active": false,
+    "id": "NZFRIS39r7wmjFXNTmES"
+  },
+  "O6YMd2K26XyGvFb3Auk2": {
+    "id": "O6YMd2K26XyGvFb3Auk2",
+    "name": "Almería",
+    "active": false
+  },
+  "OAluCyciW9gOudPu9BeP": {
+    "active": false,
+    "id": "OAluCyciW9gOudPu9BeP",
+    "name": "Región de murcia"
+  },
+  "QXhw2tsr1DNovaHjTnFN": {
+    "active": false,
+    "name": "Pontevedra",
+    "id": "QXhw2tsr1DNovaHjTnFN"
+  },
+  "R0RKFRccvpNInFLMHGkg": {
+    "id": "R0RKFRccvpNInFLMHGkg",
+    "active": false,
+    "name": "León"
+  },
+  "RHp60XA1DBejMe7VWm3B": {
+    "id": "RHp60XA1DBejMe7VWm3B",
+    "active": false,
+    "name": "Jaén"
+  },
+  "Rj5EtnPQPzxqijcdztBE": {
+    "active": false,
+    "id": "Rj5EtnPQPzxqijcdztBE",
+    "name": "Toledo"
+  },
+  "SIUTqVGdCDxDjUrePYnU": {
+    "active": false,
+    "name": "Salamanca",
+    "id": "SIUTqVGdCDxDjUrePYnU"
+  },
+  "SpzG6uMDn28DIPty8K5s": {
+    "name": "Badajoz",
+    "id": "SpzG6uMDn28DIPty8K5s",
+    "active": false
+  },
+  "U9LhLSzSNTUWW3hFvWjO": {
+    "id": "U9LhLSzSNTUWW3hFvWjO",
+    "active": false,
+    "name": "Cantabria"
+  },
+  "aAGWqN5VWprVgol88hoQ": {
+    "name": "Huelva",
+    "active": false,
+    "id": "aAGWqN5VWprVgol88hoQ"
+  },
+  "ahYz5EeqWxotO7t8Hd8b": {
+    "name": "Ceuta",
+    "active": false,
+    "id": "ahYz5EeqWxotO7t8Hd8b"
+  },
+  "ajQ9g70X5PX1BmEtTVZL": {
+    "name": "Comunidad de madrid",
+    "id": "ajQ9g70X5PX1BmEtTVZL",
+    "active": false
+  },
+  "bSYLj7xHIfy32pz6KSPd": {
+    "name": "Córdoba",
+    "id": "bSYLj7xHIfy32pz6KSPd",
+    "active": false
+  },
+  "bycf1zqHwkjW8tjuKnma": {
+    "name": "Orense",
+    "id": "bycf1zqHwkjW8tjuKnma",
+    "active": false
+  },
+  "dLauvI1WnUFWFKlIm4Gf": {
+    "id": "dLauvI1WnUFWFKlIm4Gf",
+    "name": "Albacete",
+    "active": false
+  },
+  "dPXo9Z8GYlqIUMPboX1v": {
+    "id": "dPXo9Z8GYlqIUMPboX1v",
+    "name": "Ciudad real",
+    "active": false
+  },
+  "esJA86SFZkI5NMqTkX4C": {
+    "active": false,
+    "id": "esJA86SFZkI5NMqTkX4C",
+    "name": "Zaragoza"
+  },
+  "fH6ruOf58Am5z0DodbAa": {
+    "id": "fH6ruOf58Am5z0DodbAa",
+    "active": false,
+    "name": "Sevilla"
+  },
+  "gyQrZ74kPugPfvFiKOZ3": {
+    "active": false,
+    "id": "gyQrZ74kPugPfvFiKOZ3",
+    "name": "Islas baleares"
+  },
+  "iSFYhzsLP6ZyTcspzgyD": {
+    "active": false,
+    "name": "Zamora",
+    "id": "iSFYhzsLP6ZyTcspzgyD"
+  },
+  "iyDjYDYLYRztH96c1bNg": {
+    "active": false,
+    "id": "iyDjYDYLYRztH96c1bNg",
+    "name": "Vizcaya"
+  },
+  "jG6C5XT4lZkQt1fKQvZt": {
+    "active": false,
+    "name": "Principado de asturias",
+    "id": "jG6C5XT4lZkQt1fKQvZt"
+  },
+  "jmVGZKnLJLe1Z0LRt5tO": {
+    "name": "Guipúzcoa",
+    "id": "jmVGZKnLJLe1Z0LRt5tO",
+    "active": false
+  },
+  "mItzVydskhYLx2vA1reO": {
+    "active": false,
+    "name": "Granada",
+    "id": "mItzVydskhYLx2vA1reO"
+  },
+  "nH3TkAfDNnpTcz3htvei": {
+    "name": "Valencia",
+    "id": "nH3TkAfDNnpTcz3htvei",
+    "active": false
+  },
+  "oFP4mojFwZAR39C0raBs": {
+    "name": "Melilla",
+    "id": "oFP4mojFwZAR39C0raBs",
+    "active": false
+  },
+  "oxzHeXDLIK1rsKAFq2xG": {
+    "name": "Huesca",
+    "id": "oxzHeXDLIK1rsKAFq2xG",
+    "active": false
+  },
+  "p3gmYICeondJyPndsufn": {
+    "name": "Alicante",
+    "active": false,
+    "id": "p3gmYICeondJyPndsufn"
+  },
+  "plOuZ2tggjgTyivFTDqE": {
+    "id": "plOuZ2tggjgTyivFTDqE",
+    "active": false,
+    "name": "Palencia"
+  },
+  "qdkxX2uLzXzt19jVZkWt": {
+    "active": false,
+    "id": "qdkxX2uLzXzt19jVZkWt",
+    "name": "Burgos"
+  },
+  "tjqqwnB7vtuNJIlLjLDR": {
+    "name": "Cuenca",
+    "active": false,
+    "id": "tjqqwnB7vtuNJIlLjLDR"
+  },
+  "xXSsQ1ha8mn7CLTfObhw": {
+    "active": false,
+    "id": "xXSsQ1ha8mn7CLTfObhw",
+    "name": "Málaga"
+  },
+  "xvqe4M5rVuJgTodOliAY": {
+    "name": "Gerona",
+    "id": "xvqe4M5rVuJgTodOliAY",
+    "active": false
+  },
+  "zxta61kIB8H0X6wAXkvL": {
+    "active": false,
+    "name": "Santa cruz de tenerife",
+    "id": "zxta61kIB8H0X6wAXkvL"
+  }
+}

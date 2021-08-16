@@ -1,0 +1,84 @@
+.modalContent {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.select {
+  width: 100%;
+  max-width: 400px;
+}
+
+.closeContainer {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  cursor: pointer;
+}
+
+.iconClose {
+  font-size: 30px;
+  color: black;
+}
+
+.ratingContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.number {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  height: 42px;
+  width: 42px;
+  cursor: pointer;
+  border-radius: 50%;
+  background-color: rgb(226, 226, 226);
+  margin-right: 4px;
+  margin-bottom: 4px;
+}
+
+.selectedNumber {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  height: 42px;
+  width: 42px;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 50%;
+  background-color: gray;
+  color: white;
+}
+
+.number:hover {
+  background-color: gray;
+  color: white;
+}
+
+.commentContainer {
+  width: 100%;
+}
+
+.starIcon {
+  font-size: 30px;
+}
+
+.starIcon:hover {
+  background-color: lightgray;
+}
+
+.starIconSelected {
+  font-size: 30px;
+  color: #ffce00;
+}
+
+.starIconSelected:hover {
+  background-color: lightgray;
+}

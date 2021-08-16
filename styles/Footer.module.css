@@ -1,0 +1,38 @@
+.content {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.content > * + * {
+  margin-left: 30px;
+}
+
+.content p {
+  color: var(--color-4);
+  font-size: var(--font-size-M);
+  font-weight: 800;
+  margin: 0;
+}
+
+.content a {
+  color: var(--color-4);
+  font-size: var(--font-size-M);
+  font-weight: 800;
+}
+
+/* Change styles for cancel button and delete button on extra small screens */
+@media screen and (max-width: 500px) {
+  .content {
+    flex-direction: column;
+  }
+
+  .content > * {
+    margin-left: 0;
+    margin-top: 24px;
+  }
+}

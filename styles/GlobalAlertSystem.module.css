@@ -1,0 +1,12 @@
+.alertSystemContainer {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  right: 0;
+  top: 65px;
+  padding-right: 24px;
+  z-index: 2;
+  max-width: 300px;
+  max-height: 90vh;
+  overflow: scroll;
+}

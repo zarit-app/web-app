@@ -1,0 +1,137 @@
+.container {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
+
+.topSection {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.topSection > * + * {
+  margin-left: 30px;
+}
+
+.leftSection {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  min-width: 180px;
+}
+
+.title {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.subTitle {
+  margin: 0px;
+  font-weight: 400;
+  font-size: var(--font-size-L);
+}
+
+.buttonContainer {
+  width: 200px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.imgContainer {
+  display: flex;
+  flex: 1;
+  flex-wrap: wrap;
+  min-width: 200px;
+  filter: blur(1px);
+  -webkit-filter: blur(1px);
+  justify-content: center;
+  align-items: center;
+  z-index: 0;
+}
+
+.image {
+  max-height: 200px;
+  min-width: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.elementContainer {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  padding: 20px;
+  box-shadow: var(--shadow-2);
+  border-radius: 10px;
+  max-width: 300px;
+  min-width: 200px;
+  margin-bottom: 30px;
+}
+
+.elementsContainer {
+  display: flex;
+  flex: 1 1;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.elementsContainer > * + * {
+  margin-left: 30px;
+}
+
+.contactInfo {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  box-shadow: var(--shadow-2);
+  padding: 30px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.contactInfo h3 {
+  margin: 0;
+  padding: 10px;
+}
+
+.howWorkItemContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.numberView {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30px;
+  width: 30px;
+  min-width: 30px;
+  border-radius: 50%;
+  border: solid var(--color-3) 2px;
+  color: var(--color-3);
+  margin-right: 10px;
+}
+
+@media screen and (max-width: 600px) {
+  .topSection {
+    flex-direction: column;
+  }
+
+  .topSection > * + * {
+    margin-left: 0px;
+  }
+
+  .elementsContainer {
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .elementsContainer > * + * {
+    margin-left: 0px;
+  }
+}

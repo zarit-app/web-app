@@ -1,0 +1,45 @@
+.midMessagesSection {
+  display: flex;
+  background-color: antiquewhite;
+}
+
+.container {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  overflow: scroll;
+}
+
+.myMessageContainer {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.myMessageSubContainer {
+  margin: 10px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+  background-color: teal;
+  color: white;
+  max-width: 80%;
+}
+
+.userMessageContainer {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.userMessageSubContainer {
+  margin: 10px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+  background-color: white;
+  color: black;
+  max-width: 80%;
+}

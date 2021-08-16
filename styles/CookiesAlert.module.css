@@ -1,0 +1,48 @@
+.cookiesAlertContainer {
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 1;
+  font-size: small;
+  border-radius: 3px;
+  box-shadow: 0 3px 5px -1px rgb(0 0 0 / 20%), 0 6px 10px 0 rgb(0 0 0 / 14%),
+    0 1px 18px 0 rgb(0 0 0 / 12%);
+  background-color: #202124;
+  color: white;
+  max-width: 360px;
+  margin: 20px;
+  padding: 20px;
+  bottom: 0px;
+  left: 0px;
+  z-index: 1;
+}
+
+.buttons {
+  width: 100%;
+  padding-top: 10px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.buttons > * + * {
+  margin-left: 20px;
+}
+
+@media screen and (min-width: 1300px) {
+  .cookiesAlertContainer {
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    bottom: 20px;
+    left: 20px;
+    max-width: 360px;
+    font-size: small;
+    border-radius: 3px;
+    box-shadow: 0 3px 5px -1px rgb(0 0 0 / 20%), 0 6px 10px 0 rgb(0 0 0 / 14%),
+      0 1px 18px 0 rgb(0 0 0 / 12%);
+    background-color: #202124;
+    color: white;
+    padding: 20px;
+    margin: 0px;
+  }
+}

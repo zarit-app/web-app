@@ -1,0 +1,40 @@
+.bottomInputSection {
+  display: flex;
+  height: 60px;
+}
+
+.inputContainer {
+  display: flex;
+  flex: 1;
+}
+
+.inputSubContainer {
+  display: flex;
+  flex: 1;
+}
+
+.input {
+  display: flex;
+  width: 100%;
+  background-color: rgb(236, 236, 236);
+  margin: 10px;
+  border-radius: 20px;
+  outline: none;
+  border: none;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 16px;
+}
+
+.sendButton {
+  width: 55px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 10px;
+}
+
+.iconSend {
+  font-size: 28px;
+  color: rgb(31, 118, 218);
+}

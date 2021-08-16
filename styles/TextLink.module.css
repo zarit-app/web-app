@@ -1,0 +1,21 @@
+.element {
+  color: var(--color-3);
+  font-size: var(--font-size-M);
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.element:hover {
+  text-decoration: underline;
+}
+
+.elementSecondary {
+  color: var(--color-4);
+  font-size: var(--font-size-M);
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.elementSecondary:hover {
+  text-decoration: underline;
+}
